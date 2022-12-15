@@ -16,7 +16,7 @@ A REST API for a yoga form.
 Clone the project
 
 ```bash
-  git clone [https://github.com/saketharshraj/yoga-api-nodejs.git](https://github.com/priyakumari2102/yogaFormApi.git)
+  git clone https://github.com/priyakumari2102/yogaFormApi.git
 ```
 
 Go to the project directory
